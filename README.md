@@ -8,37 +8,22 @@ Sou dev de tech, e um ciêntista de dados!
 
 ![Hedriss10 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nyckzin10&show_icons=true&theme=dracula)
 
-
 ### Tecnologias que eu uso no meu dia! 
 
 <div style="display: inline_block"><br/>
-    <img  align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/> 
-</div>
-<div style="display: inline_block"><br/>
-    <img  align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white/"> 
-</div>
-<div style="display: inline_block"><br/>
-    <img  align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-</div>
-<div style="display: inline_block"><br/>
-    <img  align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
-</div>
-<div style="display: inline_block"><br/>
-    <img  align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-</div>
-<div style="display: inline_block"><br/>
-    <img  align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
-</div>
-<div style="display: inline_block"><br/>
-    <img  align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
-</div>
-<div style="display: inline_block"><br/>
-    <img  align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-</div>
-<div style="display: inline_block"><br/>
-    <img  align="center" alt="Mysql" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
-</div>
-<br>
+<img  align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/> 
+<img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img  align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white/"> 
+<img  align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img  align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
+<img  align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+<img  align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
+<img  align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
+<img  align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img  align="center" alt="Mysql" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
+</div><br>
 
-### Oque eu faço no meu dia dia
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyckzin10&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+### Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.
 
