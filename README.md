@@ -1,10 +1,10 @@
-### Olá! Eu sou o Hedris 🧪
+
 Sou dev de tech, e um ciêntista de dados!
 
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hedriss10/)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hedriss10/)
-[![Social](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.instagram.com/hedriss10/)
+[![Social](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hedriss10?lang=pt-BR)
 
 ![Hedriss10 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nyckzin10&show_icons=true&theme=dracula)
 
@@ -28,8 +28,7 @@ Sou dev de tech, e um ciêntista de dados!
     <img  align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
 </div>
 <div style="display: inline_block"><br/>
-    <img  align="center" alt="JavaScript" src="
-    https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+    <img  align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 </div>
 <div style="display: inline_block"><br/>
     <img  align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
@@ -40,7 +39,15 @@ Sou dev de tech, e um ciêntista de dados!
 <div style="display: inline_block"><br/>
     <img  align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
+<div style="display: inline_block"><br/>
+    <img  align="center" alt="Mysql" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
+</div>
+<div style="display: inline_block"><br/>
+    <img  align="center" alt="Mysql" src="
+https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
+</div>
 
+<br>
 
-
+### Oque eu faço no meu dia dia
 
