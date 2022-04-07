@@ -18,10 +18,6 @@ Sou dev de tech, e um ciêntista de dados!
     <img  align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white/"> 
 </div>
 <div style="display: inline_block"><br/>
-    <img  align="center" alt="Django" src="
-   https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
-</div>
-<div style="display: inline_block"><br/>
     <img  align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 </div>
 <div style="display: inline_block"><br/>
@@ -42,10 +38,7 @@ Sou dev de tech, e um ciêntista de dados!
 <div style="display: inline_block"><br/>
     <img  align="center" alt="Mysql" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
 </div>
-<div style="display: inline_block"><br/>
-    <img  align="center" alt="Mysql" src="
-https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
-</div>
+<br>
 
 ### Oque eu faço no meu dia dia
 
