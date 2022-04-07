@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  @Hedris
 - 👀 I’m interested in, new changes, projects and new challenges
 - 🌱 I’m currently learning, I study data science and I'm a fullstack developer
-- 💞️ I’m on, Stand up, the best soldiers come from the  hottest fire
+- 💞️ Stand up, the best soldiers come from the  hottest fire
 - 📫 How to reach me, 
         Follow me on social networks,
         instagram: @hedriss10
