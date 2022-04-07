@@ -1,4 +1,4 @@
-
+### Olá! Eu sou o Hedris 🧪
 Sou dev de tech, e um ciêntista de dados!
 
 
@@ -46,8 +46,6 @@ Sou dev de tech, e um ciêntista de dados!
     <img  align="center" alt="Mysql" src="
 https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
 </div>
-
-<br>
 
 ### Oque eu faço no meu dia dia
 
