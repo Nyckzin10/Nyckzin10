@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Hedris 🧪
-Sou dev de tech, e um ciêntista de dados!
+Sou dev de tech, e um  futuro ciêntista de dados!
 
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hedriss10/)
