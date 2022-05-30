@@ -4,7 +4,6 @@ Sou dev de tech, e um  futuro ciêntista de dados!
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hedriss10/)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hedriss10/)
-[![Social](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hedriss10?lang=pt-BR)
 
 ![Hedriss10 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nyckzin10&show_icons=true&theme=dracula)
 
