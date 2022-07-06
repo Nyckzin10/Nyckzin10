@@ -28,7 +28,7 @@ Na área de dados, sistemas em desktop, programação web com django e flask. So
 
 ### Ferramentas em apoio
 - PowerBI: Data science
-- Estatística moderna  
+ 
 
 
 ### IDE 
